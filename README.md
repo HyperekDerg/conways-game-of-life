@@ -16,7 +16,7 @@ You can dynamically simulate patterns and observe the evolution of cells over ge
 1. Clone the repository:
 
 ```bash
-   git clone https://gitlab.com/HyperekDerg/conways-game-of-life.git
+   git clone git@github.com:HyperekDerg/conways-game-of-life.git
 ```
 
 2. Navigate to the repository:
